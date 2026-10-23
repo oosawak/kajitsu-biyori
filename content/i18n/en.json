@@ -1,0 +1,65 @@
+{
+  "sites": {
+    "fruit": {
+      "name": "Kajitsu Biyori",
+      "short_name": "Kajitsu Biyori",
+      "kind_label": "Fruit shop",
+      "hero_title": "Seasonal goodness,\ndelivered to your table.",
+      "description": "Enjoy exploring colorful fruit and seasonal gifts.",
+      "subtitle": "A seasonal fruit and gift shop",
+      "hero_note": "Fruit in season and gifts",
+      "about": "All products, prices and stock levels are fictional. No real sales, payments or deliveries take place.",
+      "source_hash": "2c14abfcc96200763d4891d79451bf02380fa44db129e763ed79a15d914c3052"
+    }
+  },
+  "posts": {
+    "fruit:orchard-letter": {
+      "title": "A seasonal letter from the orchard",
+      "category": "Stories",
+      "summary": "A seasonal update from the orchard as the fruit ripens.",
+      "cover_alt": "Seasonal fruit assortment",
+      "markdown": "Harvest season has arrived.\n\nFruit changes with the weather and each variety has its own character. Enjoy trying a few and discover your favorites.\n\n*This letter is from a fictional orchard.*",
+      "source_hash": "bd6ea5b27d1f85ec4566c69db99b18a5935715e08bec00c6a9f79a434013eeb9"
+    },
+    "fruit:citrus-box": {
+      "title": "Early-season mandarin box",
+      "category": "Citrus",
+      "summary": "Refreshing sweetness and gentle tartness in a handy box.",
+      "cover_alt": "A small box of early-season mandarins",
+      "markdown": "A small box of easy-to-eat mandarins for autumn and winter.\n\nThey make a lovely snack during a busy day.",
+      "unit": "Approx. 1.5 kg",
+      "stock": "Demo stock available",
+      "source_hash": "5e18c98065c93c2c900b1ba26aba3728084119767a8860f036e6fe7a8d2f5797"
+    },
+    "fruit:grape-pair": {
+      "title": "Two-variety grape tasting set",
+      "category": "Grapes",
+      "summary": "Compare the sweetness and acidity of two different grapes.",
+      "cover_alt": "A tasting set of grapes",
+      "markdown": "A fictional gift set pairing richly colored grapes with another fragrant variety.\n\nTheir beautiful appearance makes them a great seasonal gift.",
+      "unit": "2 bunches",
+      "stock": "Demo stock available",
+      "source_hash": "8f24711458c4dcba53549db90143201430c989237c0668eeacef05c0b201f83b"
+    },
+    "fruit:pear-assort": {
+      "title": "Fragrant pear assortment",
+      "category": "Pears",
+      "summary": "Seasonal pears with a melting texture and floral aroma.",
+      "cover_alt": "An assortment of ripe pears",
+      "markdown": "Enjoy waiting for this assortment of pears to reach its perfect ripeness.\n\n## When to enjoy them\n\nCheck the skin and aroma. Once the fruit softens slightly, chill it and enjoy.",
+      "unit": "6 pears",
+      "stock": "Demo stock available",
+      "source_hash": "b73bfa7b1db29d6b462982c191fbb5583813ba7d6a7a852c106fbae7500b7a13"
+    },
+    "fruit:apple-gift": {
+      "title": "Autumn gift box of sweet apples",
+      "category": "Apples",
+      "summary": "Juicy, aromatic apples with a pleasing sweet-tart taste.",
+      "cover_alt": "A gift box of bright red apples",
+      "markdown": "A fictional gift product featuring glossy red apples carefully packed in a box.\n\n## Our favorite ways to enjoy them\n\n- Chill and eat fresh\n- Slice thinly over yogurt\n- Turn leftovers into baked apples\n\n*These products and prices are fictional. No physical goods are sold.*",
+      "unit": "Approx. 2 kg · gift box",
+      "stock": "Demo stock available",
+      "source_hash": "e0bd7e91161ff0b9db591e2cfd2fc700ba7d29621548b65b58885b0619a89b4c"
+    }
+  }
+}

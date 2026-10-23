@@ -1,0 +1,15 @@
+id: fruit
+name: 果実日和
+short_name: 果実日和
+kind: commerce
+kind_label: フルーツ通販
+accent: '#ab654e'
+eyebrow: FRUIT FROM OUR ORCHARD
+hero_title: '旬のおいしさを、
+
+  食卓へ届ける。'
+description: 彩り豊かな季節のフルーツを、選ぶ楽しさと一緒に。
+subtitle: 季節のフルーツとギフトのお店
+hero_note: 旬の果物と贈りもの
+about: 商品・金額・在庫はすべて架空のデモです。実際の注文・決済・配送はありません。
+hero_image: fruit/hero-cherries.webp
